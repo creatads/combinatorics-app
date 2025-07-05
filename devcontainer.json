@@ -1,0 +1,8 @@
+{
+  "image": "cirrusci/flutter:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dart-code.flutter"]
+    }
+  }
+}
